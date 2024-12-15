@@ -19,7 +19,7 @@ learned.
 - HTML
 - CSS
 
-### Features
+### 🚀Features
 
 - Desktop Only
 - Semantic HTML
