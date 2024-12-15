@@ -6,7 +6,7 @@ learned.
 
 ## 📸 Screenshots
 
-![positive](readme/positive.png)
+![positive](assets/readme/positive.png)
 
 ## 🔗 Link
 
