@@ -4,8 +4,6 @@ This project is a **landing page** for a ride-sharing app, created as part of my
 The objective was to build a **desktop-only layout** following a provided **Figma design**, while applying the concepts
 learned.
 
-<!-- TODO: challenge description -->
-
 ## 📸 Screenshots
 
 ![positive](readme/positive.png)
