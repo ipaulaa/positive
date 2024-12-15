@@ -1,4 +1,4 @@
-# Challenge 01: Positive
+# Challenge 02: Positive
 
 This project is a **landing page** for a ride-sharing app, created as part of my learning journey in web development.
 The objective was to build a **desktop-only layout** following a provided **Figma design**, while applying the concepts
